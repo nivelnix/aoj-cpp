@@ -27,3 +27,4 @@ aoj-cpp/
 ### Introduction to Programming I
 
 - [x] ITP1_1_A
+- [x] ITP1_1_B
