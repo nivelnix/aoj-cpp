@@ -30,3 +30,4 @@ aoj-cpp/
 - [x] ITP1_1_B
 - [x] ITP1_1_C
 - [x] ITP1_1_D
+- [x] ITP1_2_A
